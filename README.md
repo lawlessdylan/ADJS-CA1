@@ -9,5 +9,8 @@ It uses multiple React concepts such as:
 
 To run the application:
 
-  1. cd the file directory
-  2. npm start
+  1. Download Zip
+  2. Extract Files 
+  3. cd to folder in cmd prompt
+  4. run npm install
+  5. run npm start
